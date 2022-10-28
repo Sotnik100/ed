@@ -40,7 +40,7 @@
 			<td></td>
 			<td></td>
 			<td></td>
-			<td align="center"> AL 8-bit </td>
+			<th> AL 8-bit </td>
 		</tr>
 		<tr>
 			<td></td>
@@ -58,7 +58,7 @@
 			<td></td>
 			<th colspan="4"> EAX 32-bit </th>
 		</tr>
-		<tr background="red">
+		<tr>
 			<th colspan="8"> RAX 65-bit </th>
 		</tr>
 	</tbody>
