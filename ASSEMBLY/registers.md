@@ -20,7 +20,7 @@
 | r14b | r14w | r14d | r14 |
 | r15b | r15w | r15d |  r15|
 
-<table border="3" align="center">
+<table border="3">
 	<tbody>
 		<tr>
 			<th> 00000000 </th>
@@ -40,7 +40,7 @@
 			<td></td>
 			<td></td>
 			<td></td>
-			<td> AL 8-bit </td>
+			<td align="center"> AL 8-bit </td>
 		</tr>
 		<tr>
 			<td></td>
