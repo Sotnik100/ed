@@ -8,7 +8,7 @@
 | sys_write | 1  | 1(Output)  | TEXT  | 14 |  |  |  |
 | sys_open  | 2  |   |  |  |  |  |  |
 | sys_close | 3  |   |  |  |  |  |  |
-| sys_exit  | 60 |   |  |  |  |  |  |
+| sys_exit  | 60 | 0(Код)  |  |  |  |  |  |
 ### Aссемблерная инструкция
 ```
 intel x86 int $0x80
