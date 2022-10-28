@@ -1,0 +1,13 @@
+# Регистры
+
+# Flags
+| Symbol | Description |
+| :---: | :---: |
+| CF | Carry |
+| PF | Parity  |
+| ZF | Zero  |
+| SF | Sign  |
+| OF | Overflow  |
+| AF | Adjust  |
+| IF | Interrupt  |
+
