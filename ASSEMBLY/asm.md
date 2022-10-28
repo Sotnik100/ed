@@ -5,7 +5,7 @@
 | syscall | ID | RDI | RSI | RDX | R10 | R8 | R9 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | sys_read  | 0  |   |  |  |  |  |  |
-| sys_write | 1  | 1  | TEXT  | 14 |  |  |  |
+| sys_write | 1  | 1(Output)  | TEXT  | 14 |  |  |  |
 | sys_open  | 2  |   |  |  |  |  |  |
 | sys_close | 3  |   |  |  |  |  |  |
 | sys_exit  | 60 |   |  |  |  |  |  |
