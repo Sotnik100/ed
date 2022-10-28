@@ -31,7 +31,7 @@
 <table>
 	<tbody>
 		<tr>
-			<td></td>
+			<td> 00000000 </td>
 			<td></td>
 			<td></td>
 			<td></td>
@@ -41,7 +41,7 @@
 			<td></td>
 		</tr>
 		<tr>
-			<td></td>
+			<td> 00000000 </td>
 			<td></td>
 			<td></td>
 			<td></td>
@@ -51,7 +51,7 @@
 			<td>AL</td>
 		</tr>
 		<tr>
-			<td></td>
+			<td> 00000000 </td>
 			<td></td>
 			<td></td>
 			<td></td>
@@ -60,7 +60,7 @@
 			<td colspan="2">AX</td>
 		</tr>
 		<tr>
-			<td></td>
+			<td> 00000000 </td>
 			<td></td>
 			<td></td>
 			<td></td>
