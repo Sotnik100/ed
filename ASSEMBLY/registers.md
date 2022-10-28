@@ -58,7 +58,7 @@
 			<td></td>
 			<th colspan="4"> EAX 32-bit </th>
 		</tr>
-		<tr  bordercolor="red">
+		<tr background="red">
 			<th colspan="8"> RAX 65-bit </th>
 		</tr>
 	</tbody>
