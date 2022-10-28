@@ -20,7 +20,7 @@
 | r14b | r14w | r14d | r14 |
 | r15b | r15w | r15d |  r15|
 
-<table>
+<table border="3">
 	<tbody>
 		<tr>
 			<th> 00000000 </th>
@@ -40,7 +40,7 @@
 			<td></td>
 			<td></td>
 			<td></td>
-			<th border="3"> AL 8-bit </th>
+			<th> AL 8-bit </th>
 		</tr>
 		<tr>
 			<td></td>
@@ -49,17 +49,17 @@
 			<td></td>
 			<td></td>
 			<td></td>
-			<th colspan="2" border="3"> AX 16-bit </th>
+			<th colspan="2"> AX 16-bit </th>
 		</tr>
 		<tr>
 			<td></td>
 			<td></td>
 			<td></td>
 			<td></td>
-			<th colspan="4" border="3"> EAX 32-bit </th>
+			<th colspan="4"> EAX 32-bit </th>
 		</tr>
-		<tr>
-			<th colspan="8" border="3"> RAX 65-bit </th>
+		<tr border="3">
+			<th colspan="8"> RAX 65-bit </th>
 		</tr>
 	</tbody>
 </table>
