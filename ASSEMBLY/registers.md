@@ -20,9 +20,9 @@
 | r14b | r14w | r14d | r14 |
 | r15b | r15w | r15d |  r15|
 
-<table>
+<table border="3">
 	<tbody>
-		<tr bgcolor="#ffcc00">
+		<tr bgcolor="red">
 			<th> 00000000 </th>
 			<th> 00000000 </th>
 			<th> 00000000 </th>
