@@ -20,7 +20,7 @@
 | r14b | r14w | r14d | r14 |
 | r15b | r15w | r15d |  r15|
 
-<table bordercolor="red" border="3">
+<table border="3">
 	<tbody>
 		<tr>
 			<th> 00000000 </th>
@@ -58,7 +58,7 @@
 			<td></td>
 			<th colspan="4"> EAX 32-bit </th>
 		</tr>
-		<tr>
+		<tr  bordercolor="red">
 			<th colspan="8"> RAX 65-bit </th>
 		</tr>
 	</tbody>
