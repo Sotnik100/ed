@@ -20,14 +20,6 @@
 | r14b | r14w | r14d | r14 |
 | r15b | r15w | r15d |  r15|
 
-
-| | |
-| :---: | :---: |
-| 00000000 00000000 00000000 00000000 | ... |
-| rax ||
-
-
-
 <table>
 	<tbody>
 		<tr>
@@ -71,7 +63,6 @@
 		</tr>
 	</tbody>
 </table>
-
 
 # Flags
 | Symbol | Description |
