@@ -40,7 +40,7 @@
 			<td></td>
 			<td></td>
 			<td></td>
-			<td> AL 8-bit </td>
+			<th> AL 8-bit </th>
 		</tr>
 		<tr>
 			<td></td>
@@ -49,17 +49,17 @@
 			<td></td>
 			<td></td>
 			<td></td>
-			<td colspan="2"> AX 16-bit </td>
+			<th colspan="2"> AX 16-bit </th>
 		</tr>
 		<tr>
 			<td></td>
 			<td></td>
 			<td></td>
 			<td></td>
-			<td colspan="4"> EAX 32-bit </td>
+			<th colspan="4"> EAX 32-bit </th>
 		</tr>
 		<tr>
-			<td colspan="8" center> RAX 65-bit </td>
+			<th colspan="8" center> RAX 65-bit </th>
 		</tr>
 	</tbody>
 </table>
