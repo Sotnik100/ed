@@ -23,14 +23,14 @@
 <table>
 	<tbody>
 		<tr>
-			<td> _00000000_ </td>
-			<td> *00000000* </td>
-			<td> *00000000* </td>
-			<td> *00000000* </td>
-			<td> *00000000* </td>
-			<td> *00000000* </td>
-			<td> *00000000* </td>
-			<td> *00000000* </td>
+			<td> 00000000 </td>
+			<td> 00000000 </td>
+			<td> 00000000 </td>
+			<td> 00000000 </td>
+			<td> 00000000 </td>
+			<td> 00000000 </td>
+			<td> 00000000 </td>
+			<td> 00000000 </td>
 		</tr>
 		<tr>
 			<td></td>
@@ -40,7 +40,7 @@
 			<td></td>
 			<td></td>
 			<td></td>
-			<td> **AL 8-bit** </td>
+			<td> AL 8-bit </td>
 		</tr>
 		<tr>
 			<td></td>
@@ -49,17 +49,17 @@
 			<td></td>
 			<td></td>
 			<td></td>
-			<td colspan="2"> **AX 16-bit** </td>
+			<td colspan="2"> AX 16-bit </td>
 		</tr>
 		<tr>
 			<td></td>
 			<td></td>
 			<td></td>
 			<td></td>
-			<td colspan="4"> **EAX 32-bit** </td>
+			<td colspan="4"> EAX 32-bit </td>
 		</tr>
 		<tr>
-			<td colspan="8"> **RAX 65-bit** </td>
+			<td colspan="8" center> RAX 65-bit </td>
 		</tr>
 	</tbody>
 </table>
