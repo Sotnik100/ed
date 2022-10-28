@@ -32,16 +32,16 @@
 	<tbody>
 		<tr>
 			<td> 00000000 </td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
+			<td> 00000000 </td>
+			<td> 00000000 </td>
+			<td> 00000000 </td>
+			<td> 00000000 </td>
+			<td> 00000000 </td>
+			<td> 00000000 </td>
+			<td> 00000000 </td>
 		</tr>
 		<tr>
-			<td> 00000000 </td>
+			<td></td>
 			<td></td>
 			<td></td>
 			<td></td>
@@ -51,7 +51,7 @@
 			<td>AL</td>
 		</tr>
 		<tr>
-			<td> 00000000 </td>
+			<td></td>
 			<td></td>
 			<td></td>
 			<td></td>
@@ -60,7 +60,7 @@
 			<td colspan="2">AX</td>
 		</tr>
 		<tr>
-			<td> 00000000 </td>
+			<td></td>
 			<td></td>
 			<td></td>
 			<td></td>
