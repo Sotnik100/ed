@@ -1,7 +1,7 @@
 # Системный вызов в Linux
 [Содержание](../README.md)
 
---sys_write 0(Input), 1(Output), 2(Error)!--
+**sys_write 0(Input), 1(Output), 2(Error)!**
 | syscall | ID | RDI | RSI | RDX | R10 | R8 | R9 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | sys_read  | 0  |   |  |  |  |  |  |
