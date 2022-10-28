@@ -20,3 +20,4 @@ intel x86-64 регистры RDI, RSI, RDX, R10, R8, R9
 intel x86 регистр EAX
 intel x86-64 регистр RAX
 ```
+[Содержание](../README.md)
