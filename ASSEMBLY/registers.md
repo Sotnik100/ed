@@ -26,6 +26,19 @@
 | 00000000 00000000 00000000 00000000 | ... |
 | rax ||
 
+
+
+|             |          Grouping           ||
+First Header  | Second Header | Third Header |
+ ------------ | :-----------: | -----------: |
+Content       |          *Long Cell*        ||
+Content       |   **Cell**    |         Cell |
+
+New section   |     More      |         Data |
+And more      | With an escaped '\|'         ||  
+[Prototype table]
+
+
 # Flags
 | Symbol | Description |
 | :---: | :---: |
