@@ -23,14 +23,14 @@
 <table border="3">
 	<tbody>
 		<tr>
-			<th> 00000000 </th>
-			<th> 00000000 </th>
-			<th> 00000000 </th>
-			<th> 00000000 </th>
-			<th> 00000000 </th>
-			<th> 00000000 </th>
-			<th> 00000000 </th>
-			<th> 00000000 </th>
+			<th> $\textcolor{red}{00000000}$  </th>
+			<th> $\textcolor{red}{00000000}$  </th>
+			<th> $\textcolor{red}{00000000}$  </th>
+			<th> $\textcolor{red}{00000000}$  </th>
+			<th> $\textcolor{gold}{00000000}$  </th>
+			<th> $\textcolor{gold}{00000000}$  </th>
+			<th> $\textcolor{green}{00000000}$  </th>
+			<th> $\textcolor{blue}{00000000}$ </th>
 		</tr>
 		<tr>
 			<td></td>
@@ -40,7 +40,7 @@
 			<td></td>
 			<td></td>
 			<td></td>
-			<th> AL 8-bit </td>
+			<th> $\Large \textcolor{blue} {AL 8-BIT}$ </td>
 		</tr>
 		<tr>
 			<td></td>
@@ -49,17 +49,17 @@
 			<td></td>
 			<td></td>
 			<td></td>
-			<th colspan="2"> AX 16-bit </th>
+			<th colspan="2"> $\Large \textcolor{green} {AX 16-BIT}$ </th>
 		</tr>
 		<tr>
 			<td></td>
 			<td></td>
 			<td></td>
 			<td></td>
-			<th colspan="4"> EAX 32-bit </th>
+			<th colspan="4"> $\Large \textcolor{gold} {EAX 32-BIT}$ </th>
 		</tr>
 		<tr>
-			<th colspan="8"> RAX 65-bit </th>
+			<th colspan="8"> $\Large \textcolor{red} {RAX 64-BIT}$ </th>
 		</tr>
 	</tbody>
 </table>
