@@ -1,4 +1,5 @@
-[Ссылка на диаграммы](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-diagrams#creating-stl-3d-models)
+- [Ссылка на диаграммы](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-diagrams#creating-stl-3d-models)
+- [Ссылка на диаграммы 2](https://mermaid-js.github.io/mermaid/#/)
 
 
 
