@@ -6,12 +6,11 @@
 
 <details><summary>АССЕМБЛЕР</summary>
   
-**Системные вызовы**
+- Системные вызовы
+  - [Системный вызов в Linux](./ASSEMBLY/asm.md)
+  - [Системный вызов в Linux](./ASSEMBLY/asm.md)
   
-- [Системный вызов в Linux](./ASSEMBLY/asm.md)
-- [Системный вызов в Linux](./ASSEMBLY/asm.md)
-  
-#### Регистры   
-- [Registers x86-64](./ASSEMBLY/registers.md)
+- Регистры   
+  - [Registers x86-64](./ASSEMBLY/registers.md)
   
 </details>
