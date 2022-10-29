@@ -76,3 +76,5 @@
 | IF | Interrupt  |
 
 [Содержание](../README.md)
+
+$\color[rgb]{1,0,1} hello$
