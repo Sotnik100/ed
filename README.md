@@ -6,7 +6,8 @@
 
 <details><summary>АССЕМБЛЕР</summary>
   
-#### Системные вызовы
+**Системные вызовы**
+  
 - [Системный вызов в Linux](./ASSEMBLY/asm.md)
 - [Системный вызов в Linux](./ASSEMBLY/asm.md)
   
