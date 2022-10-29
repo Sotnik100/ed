@@ -4,14 +4,12 @@
 - [Системный вызов в Linux](./ASSEMBLY/asm.md)
 - [Registers x86-64](./ASSEMBLY/registers.md)
 
-<details><summary>CLICK ME</summary>
+<details><summary>Ассемблер</summary>
 <p>
 
-#### We can hide anything, even code!
-
-```ruby
-   puts "Hello World"
-```
-
+#### Системные вызовы
+   [Системный вызов в Linux](./ASSEMBLY/asm.md)
+#### Регистры   
+   [Registers x86-64](./ASSEMBLY/registers.md)
 </p>
 </details>
