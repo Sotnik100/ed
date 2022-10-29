@@ -77,4 +77,3 @@
 
 [Содержание](../README.md)
 
-$\color[rgb]{1,0,1} <h1>hello</h1>$
