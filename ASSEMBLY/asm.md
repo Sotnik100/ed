@@ -1,11 +1,3 @@
-
-<style
-  type="text/css">
-h1 {color:red;}
-
-p {color:blue;}
-</style>
-
 # Системный вызов в Linux
 [Содержание](../README.md)
 
