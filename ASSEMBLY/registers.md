@@ -39,7 +39,7 @@
 			<td></td>
 			<td></td>
 			<td></td>
-			<td></td>
+			<td> $\Large \textcolor{green} {AH 8-BIT}$ </td>
 			<th> $\Large \textcolor{blue} {AL 8-BIT}$ </td>
 		</tr>
 		<tr>
